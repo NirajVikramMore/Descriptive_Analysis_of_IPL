@@ -14,8 +14,9 @@
 7. Sorting DataFrame by Column Names.
 8. Creating New Columns.
 9. Grouping and Aggregating.
+10. Data Visulization.
 
 **Usage -**
 ```
-git clone https://github.com/Raj140503/Descriptive-Analysis-of-IPL
+git clone https://github.com/NirajVikramMore/Descriptive_Analysis_of_IPL
 ```
